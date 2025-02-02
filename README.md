@@ -1,1 +1,1 @@
-Ksu-next version of spark kernel
+Just for some releases
